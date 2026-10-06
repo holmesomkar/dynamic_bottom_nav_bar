@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'dynamic_nav_bar_theme.dart';
+import 'overflow_nav_bar_theme.dart';
 import 'nav_item.dart';
 
 /// Sectioned two-column menu card that slides up out of the nav bar like a

@@ -1,4 +1,4 @@
-package com.example.dynamic_nav_bar_example
+package com.example.overflow_nav_bar_example
 
 import io.flutter.embedding.android.FlutterActivity
 

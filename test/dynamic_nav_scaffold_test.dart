@@ -1,4 +1,4 @@
-import 'package:dynamic_nav_bar/dynamic_nav_bar.dart';
+import 'package:overflow_nav_bar/overflow_nav_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

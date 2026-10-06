@@ -2,7 +2,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 
-import 'dynamic_nav_bar_theme.dart';
+import 'overflow_nav_bar_theme.dart';
 import 'nav_item.dart';
 import 'nav_menu_sheet.dart';
 import 'nav_trailing_button.dart';
