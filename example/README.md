@@ -1,4 +1,4 @@
-# overflow_nav_bar_example
+# dynamic_bottom_nav_bar_example
 
 A new Flutter project.
 

@@ -1,4 +1,4 @@
-import 'package:overflow_nav_bar/overflow_nav_bar.dart';
+import 'package:dynamic_bottom_nav_bar/dynamic_bottom_nav_bar.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const ExampleApp());

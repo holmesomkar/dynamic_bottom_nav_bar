@@ -1,4 +1,4 @@
-# overflow_nav_bar
+# dynamic_bottom_nav_bar
 
 A pill-style bottom navigation bar for Flutter with:
 
@@ -11,16 +11,16 @@ A pill-style bottom navigation bar for Flutter with:
 
 ```yaml
 dependencies:
-  overflow_nav_bar:
+  dynamic_bottom_nav_bar:
     git:
-      url: https://github.com/holmesomkar/overflow_nav_bar.git
+      url: https://github.com/holmesomkar/dynamic_bottom_nav_bar.git
       ref: v0.1.0
 ```
 
 ## Usage
 
 ```dart
-import 'package:overflow_nav_bar/overflow_nav_bar.dart';
+import 'package:dynamic_bottom_nav_bar/dynamic_bottom_nav_bar.dart';
 
 const home = NavItem(id: 'home', label: 'Home', icon: Icons.home_outlined);
 const sites = NavItem(id: 'sites', label: 'Sites', icon: Icons.place_outlined);

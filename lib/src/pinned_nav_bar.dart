@@ -3,7 +3,7 @@ import 'dart:ui' show lerpDouble;
 
 import 'package:flutter/material.dart';
 
-import 'overflow_nav_bar_theme.dart';
+import 'dynamic_bottom_nav_bar_theme.dart';
 import 'nav_item.dart';
 import 'text_measure.dart';
 
